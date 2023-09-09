@@ -1,0 +1,33 @@
+﻿GETTING STARTED WITH HTML
+ASSIGNMENT
+
+
+
+
+Task 2: Explain the purpose of comments in HTML and provide an example of how to use comments on an html document?
+
+
+Solution :Comments are used to add comments on the codes used in an html program.Comments are not rendered or displayed when you run the program.The main purpose of comments is to add information about a code or to explain about a code so that you can explain your code and your code will not displayed in the webpage.So we can say a lot more about any tag by using comments.
+Here an example is provided of how to use comments on an html program:
+<!- - write your comment - - >
+<p> hello </p>
+<!- - more comment or information - - >
+
+
+Task 4: Write a short note on Tag and Element with an example?
+
+
+Solution: Tag defines the whole of html document. Tag used to decide the layout of any web page like what should be the heading, title and content of the webpage. It gives instructions about how to display the website.Tag consists an opening tag and a closing tag.
+Opening tag –<tag>
+Closing tag–</tag>
+ Element is something which consists of an opening tag and a closing tag and everything in between them.
+<tag> content here </tag>
+
+
+
+
+Task 5 : What is the DOCTYPE declaration in html?
+
+
+Solution: The DOCTYPE declaration appears on the top of an html program.It is a form of declaration to the browser about what version of html the page is written in.It is not a tag.
+It is in the form of <!DOCTYPE HTML>.
